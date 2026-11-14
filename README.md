@@ -10,7 +10,7 @@ A machine-learning application for detecting phishing-related network data. The 
 - FastAPI endpoints for model training and batch prediction.
 - CSV prediction results rendered as an HTML table.
 - Docker support for running the API in a container.
-- Optional AWS ECR/EC2 deployment workflow. 
+- Optional AWS ECR/EC2 deployment workflow.  
 
 ## Project Structure
 
